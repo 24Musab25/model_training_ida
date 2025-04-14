@@ -1,0 +1,6 @@
+train: /home/musab/Desktop/dataset_generation/images/train
+val: /home/musab/Desktop/dataset_generation/images/val
+test: /home/musab/Desktop/dataset_generation/images/test
+nc: 15  # Sınıf sayısı (Kendi veri setine göre değiştir)
+names: ["Person", "Car", "Motorcycle", "Airplane", "Bus", "Boat", "Stop Sign", "Snowboard", "Umbrella", "Sports Ball", "Baseball Bat", "Bed/Mattress", "Tennis Racket", "Suitcase", "Skis"]
+
